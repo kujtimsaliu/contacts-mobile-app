@@ -1,16 +1,34 @@
-# crud_ops_contactlist_app
+# Flutter Contact List 
 
-A new Flutter project.
+## Description
+This Flutter application provides a contact list management system where users can add, edit, and delete contacts. 
 
-## Getting Started
+## Installation
+To set up this project locally, follow these steps:
 
-This project is a starting point for a Flutter application.
+1. Clone the repository to your local machine:
+    ```bash
+    git clone https://github.com/kujtimsaliu/contacts-mobile-app.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd contacts-mobile-app
+    ```
+3. Install the necessary dependencies:
+    ```bash
+    flutter pub get
+    ```
+4. Run the app on your connected device or emulator:
+    ```bash
+    flutter run
+    ```
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
+- **View Contacts:** Launch the app to see a list of all contacts.
+- **Add Contact:** Tap the '+' icon to add a new contact.
+- **Edit/Delete Contact:** Tap on any contact to view details, with options to edit or delete.
+- **Add to favarites:** Tap the star icon when viewing the details of a contact to have them in favorites.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Credits
+- Kujtim Saliuu 
