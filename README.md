@@ -31,10 +31,11 @@ To set up this project locally, follow these steps:
   \\\previews of the app\
 
   
-  ![image](https://github.com/kujtimsaliu/contacts-mobile-app/assets/36280465/40263fef-b37f-4ea8-a4d2-60fba45edf5e)
+![image](https://github.com/kujtimsaliu/contacts-mobile-app/assets/36280465/40263fef-b37f-4ea8-a4d2-60fba45edf5e)
 
 
 ![image](https://github.com/kujtimsaliu/contacts-mobile-app/assets/36280465/a3291b8d-e65b-4de9-a495-73ba1e6f89fe)
+
 
 ![image](https://github.com/kujtimsaliu/contacts-mobile-app/assets/36280465/e8a8d969-03ca-4edf-aab1-dd09643473ef)
 
