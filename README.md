@@ -1,4 +1,4 @@
-# Flutter Contact List 
+# Flutter - Contact List 
 
 ## Description
 This Flutter application provides a contact list management system where users can add, edit, and delete contacts. 
